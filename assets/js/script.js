@@ -14,7 +14,7 @@ loadBtn.addEventListener('click', function(e) {
     
     .then(function(data) {
         var span="";
-        for ( ; i <= count; i++) {
+        for (   ; i <= count; i++) {
         span += "<li><h2> USER ID : " + data[i].userId + "</h2>" ;
         span += "<h2> ID : " + data[i].id + "</h2>";
         span += "<h2> TITLE : " + data[i].title + "</h2>";
