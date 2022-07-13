@@ -131,33 +131,21 @@ h1 {
   border-radius: 10px;
   color: #000;
   font-weight: bold;
-  
 }
 
+li {
+  padding: 15px 20px;
+  border: 2px solid #808080;
+  border-radius: 10px;
+  margin: 15px 0;
+}
 
+h2 { margin: 0 0 5px 0; }
 
 /*=================================
   main styling ends here
 =================================*/
 
-/*=================================
-  footer styling starts here
-=================================*/ 
 
 
-
-
-
-
-
- /*=================================
-  footer styling ends here
-=================================*/ 
-
-/*media query starts*/
-/*media query for 995px starts here*/
-@media only screen and (max-width: 995px) {
-
-
-
-}  
+ 
