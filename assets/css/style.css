@@ -134,6 +134,7 @@ h1 {
 }
 
 li {
+  width: 100%;
   padding: 15px 20px;
   border: 2px solid #808080;
   border-radius: 10px;
