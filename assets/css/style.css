@@ -103,27 +103,36 @@ li {
   width: 86%; 
   margin: 0 auto;
 }
-/*=================================
-  Header styling starts here
-=================================*/
 
-
-
-
-
-
-/*=================================
-  Header styling ends here
-=================================*/  
 
 /*=================================
   main styling starts here
 =================================*/
 
+.loadmore .wrapper { padding: 50px 0; }
+h1 ,
+span { text-align: center; }
 
+span { 
+  display: block;
+  font-style: italic;
+ }
 
+h1 { 
+  margin: 15px 0;
+  font-size: 33px;
+  font-weight: bold;
+  text-transform: uppercase;
+ }
 
-
+.load a {
+  padding: 15px 20px;
+  border: 2px solid ;
+  border-radius: 10px;
+  color: #000;
+  font-weight: bold;
+  
+}
 
 
 
